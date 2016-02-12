@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/David/workspace/slick.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/workspace/lwjgl-2.9.1/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/workspace/lwjgl-2.9.1/jar/lwjgl_util.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/David/workspace/lwjgl-2.9.1/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/David/workspace2/RandomClasses/jorbis-0.0.17-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Downloads/htmlunit-2.15-OSGi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Desktop/TyperXBot/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Desktop/TyperXBot/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Desktop/TyperXBot/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Desktop/TyperXBot/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Desktop/TyperXBot/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Downloads/JNativeHook.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
